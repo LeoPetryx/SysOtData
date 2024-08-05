@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<monsters>
+	<monster centerx="712" centery="715" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-3" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-4" y="5" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-1" y="5" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="4" y="5" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="715" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="701" centery="716" centerz="3" radius="5">
+		<monster name="Crazed Nature Rearguard" x="-3" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-5" y="4" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="718" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-2" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-2" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-3" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="718" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="2" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-4" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="718" centerz="3" radius="5" />
+	<monster centerx="710" centery="721" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="0" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-5" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="721" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-5" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="727" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-4" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="727" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="728" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="701" centery="732" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="732" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-2" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="5" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="732" centerz="3" radius="5">
+		<monster name="Crazed Nature Rearguard" x="3" y="-4" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="3" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="704" centery="733" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="1" y="-1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="684" centery="736" centerz="3" radius="5">
+		<monster name="Crazed Nature Rearguard" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="3" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="4" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="5" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-5" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="736" centerz="3" radius="5">
+		<monster name="Crazed Nature Rearguard" x="1" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="738" centerz="3" radius="4">
+		<monster name="Crazed Summer Rearguard" x="-3" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="743" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-2" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="710" centery="743" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="5" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-1" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="743" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="285432064" />
+	</monster>
+	<monster centerx="721" centery="743" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="744" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-1" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-2" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="745" centerz="3" radius="4">
+		<monster name="Crazed Summer Rearguard" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="747" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="750" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="750" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="751" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-2" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="751" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="752" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="753" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="754" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="754" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-3" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="3" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="754" centerz="3" radius="4">
+		<monster name="Crazed Summer Rearguard" x="1" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="688" centery="756" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="710" centery="756" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="756" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="757" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="3" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-2" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="708" centery="758" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="715" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="716" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="4" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="718" centerz="4" radius="5">
+		<monster name="Crazed Winter Rearguard" x="-1" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-4" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="5" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="718" centerz="4" radius="5">
+		<monster name="Crazed Nature Rearguard" x="-1" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="5" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="719" centerz="4" radius="5">
+		<monster name="Crazed Winter Rearguard" x="-3" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="3" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-3" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="721" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="4" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="721" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="0" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="725" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="727" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="2" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="728" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-3" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="728" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="0" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="4" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-4" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="728" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="0" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="728" centerz="4" radius="1">
+		<monster name="Crazed Winter Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="728" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="704" centery="733" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="736" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="736" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="4" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-3" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="736" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="2" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="738" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-2" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="3" y="3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="743" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="4" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="744" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="745" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="0" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="745" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-3" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="745" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="745" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-4" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="750" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="752" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="4" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="3" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="752" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="4" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="4" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="754" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-3" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="754" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-1" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="0" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="754" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-2" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="757" centerz="4" radius="4" />
+	<monster centerx="690" centery="713" centerz="5" radius="10" />
+	<monster centerx="713" centery="714" centerz="5" radius="10" />
+	<monster centerx="677" centery="721" centerz="5" radius="10" />
+	<monster centerx="698" centery="724" centerz="5" radius="10" />
+	<monster centerx="709" centery="729" centerz="5" radius="10" />
+	<monster centerx="724" centery="730" centerz="5" radius="10" />
+	<monster centerx="676" centery="736" centerz="5" radius="10" />
+	<monster centerx="691" centery="737" centerz="5" radius="10" />
+	<monster centerx="668" centery="744" centerz="5" radius="10" />
+	<monster centerx="709" centery="745" centerz="5" radius="10" />
+	<monster centerx="696" centery="749" centerz="5" radius="10" />
+	<monster centerx="683" centery="751" centerz="5" radius="10" />
+	<monster centerx="729" centery="753" centerz="5" radius="10" />
+	<monster centerx="690" centery="706" centerz="6" radius="10" />
+	<monster centerx="676" centery="719" centerz="6" radius="10" />
+	<monster centerx="712" centery="719" centerz="6" radius="10" />
+	<monster centerx="693" centery="722" centerz="6" radius="10" />
+	<monster centerx="726" centery="735" centerz="6" radius="10" />
+	<monster centerx="708" centery="738" centerz="6" radius="10" />
+	<monster centerx="673" centery="739" centerz="6" radius="10" />
+	<monster centerx="688" centery="741" centerz="6" radius="10" />
+	<monster centerx="723" centery="746" centerz="6" radius="10" />
+	<monster centerx="736" centery="748" centerz="6" radius="10" />
+	<monster centerx="710" centery="753" centerz="6" radius="10" />
+	<monster centerx="682" centery="754" centerz="6" radius="10" />
+	<monster centerx="729" centery="759" centerz="6" radius="10" />
+	<monster centerx="690" centery="705" centerz="7" radius="10">
+		<monster name="Weakened Frazzlemaw" x="-1" y="-4" z="7" spawntime="60" />
+		<monster name="The Rage" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Souleater" x="4" y="-3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="4" y="-2" z="7" spawntime="60" />
+		<monster name="Souleater" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Souleater" x="4" y="1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-6" y="2" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="1" y="3" z="7" spawntime="60" />
+		<monster name="The Rage" x="-4" y="4" z="7" spawntime="60" />
+		<monster name="The Rage" x="5" y="4" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-4" y="6" z="7" spawntime="60" />
+		<monster name="Souleater" x="-6" y="8" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="5" y="9" z="7" spawntime="60" />
+		<monster name="Souleater" x="6" y="9" z="7" spawntime="60" />
+		<monster name="The Rage" x="-9" y="10" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="672" centery="716" centerz="7" radius="10">
+		<monster name="Weakened Frazzlemaw" x="-4" y="-3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="4" y="-3" z="7" spawntime="60" />
+		<monster name="The Rage" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Souleater" x="-5" y="-1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-4" y="1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="3" y="2" z="7" spawntime="60" />
+		<monster name="The Rage" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Souleater" x="4" y="4" z="7" spawntime="60" />
+		<monster name="The Rage" x="6" y="5" z="7" spawntime="60" />
+		<monster name="The Rage" x="6" y="8" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="4" y="9" z="7" spawntime="60" />
+		<monster name="Souleater" x="7" y="9" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="717" centerz="7" radius="10">
+		<monster name="The Rage" x="10" y="-7" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="9" y="-6" z="7" spawntime="60" />
+		<monster name="The Rage" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="9" y="-1" z="7" spawntime="60" />
+		<monster name="Souleater" x="-6" y="2" z="7" spawntime="60" />
+		<monster name="The Rage" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-8" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="0" y="7" z="7" spawntime="60" />
+		<monster name="Souleater" x="4" y="7" z="7" spawntime="60" />
+		<monster name="The Rage" x="-2" y="8" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="719" centerz="7" radius="10">
+		<monster name="Souleater" x="-3" y="-7" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-4" y="-5" z="7" spawntime="60" />
+		<monster name="The Rage" x="-3" y="-4" z="7" spawntime="60" />
+		<monster name="Souleater" x="-6" y="-2" z="7" spawntime="60" />
+		<monster name="The Rage" x="7" y="-1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="4" y="0" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Souleater" x="3" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="10" y="3" z="7" spawntime="60" />
+		<monster name="Souleater" x="-5" y="4" z="7" spawntime="60" />
+		<monster name="The Rage" x="-3" y="4" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-5" y="5" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-8" y="6" z="7" spawntime="60" />
+		<monster name="The Rage" x="4" y="6" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="3" y="8" z="7" spawntime="60" />
+		<monster name="The Rage" x="-9" y="9" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="684" centery="723" centerz="7" radius="10">
+		<monster name="Weakened Frazzlemaw" x="-3" y="5" z="7" spawntime="60" />
+		<monster name="Souleater" x="-8" y="7" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="0" y="7" z="7" spawntime="60" />
+		<monster name="Souleater" x="4" y="7" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="7" y="7" z="7" spawntime="60" />
+		<monster name="The Rage" x="3" y="8" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="734" centerz="7" radius="10">
+		<monster name="Souleater" x="1" y="-8" z="7" spawntime="60" />
+		<monster name="The Rage" x="1" y="-7" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="3" y="-6" z="7" spawntime="60" />
+		<monster name="The Rage" x="7" y="-6" z="7" spawntime="60" />
+		<monster name="Souleater" x="-7" y="-3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="8" y="-3" z="7" spawntime="60" />
+		<monster name="Souleater" x="7" y="-2" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="7" y="3" z="7" spawntime="60" />
+		<monster name="The Rage" x="1" y="4" z="7" spawntime="60" />
+		<monster name="The Rage" x="-9" y="5" z="7" spawntime="60" />
+		<monster name="The Rage" x="8" y="5" z="7" spawntime="60" />
+		<monster name="Souleater" x="1" y="6" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-5" y="7" z="7" spawntime="60" />
+		<monster name="The Rage" x="-4" y="7" z="7" spawntime="60" />
+		<monster name="Souleater" x="7" y="7" z="7" spawntime="60" />
+		<monster name="Souleater" x="-8" y="8" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="695" centery="736" centerz="7" radius="10">
+		<monster name="Weakened Frazzlemaw" x="8" y="-6" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="The Rage" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="The Rage" x="-7" y="1" z="7" spawntime="60" />
+		<monster name="Souleater" x="8" y="2" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-6" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="4" y="4" z="7" spawntime="60" />
+		<monster name="Souleater" x="-8" y="6" z="7" spawntime="60" />
+		<monster name="The Rage" x="6" y="6" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="7" y="7" z="7" spawntime="60" />
+		<monster name="Souleater" x="1" y="8" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="736" centerz="7" radius="10">
+		<monster name="Weakened Frazzlemaw" x="-8" y="-5" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-6" y="0" z="7" spawntime="285468416" />
+		<monster name="Weakened Frazzlemaw" x="-5" y="0" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-5" y="4" z="7" spawntime="60" />
+		<monster name="The Rage" x="-6" y="10" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-3" y="10" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="677" centery="741" centerz="7" radius="10">
+		<monster name="Souleater" x="-7" y="-8" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-5" y="-8" z="7" spawntime="60" />
+		<monster name="The Rage" x="-6" y="-5" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="1" y="-5" z="7" spawntime="60" />
+		<monster name="The Rage" x="-9" y="-4" z="7" spawntime="60" />
+		<monster name="The Rage" x="0" y="-4" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="5" y="-4" z="7" spawntime="60" />
+		<monster name="Souleater" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="The Rage" x="5" y="-2" z="7" spawntime="60" />
+		<monster name="Souleater" x="-6" y="-1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Souleater" x="1" y="2" z="7" spawntime="60" />
+		<monster name="The Rage" x="-10" y="3" z="7" spawntime="60" />
+		<monster name="The Rage" x="-3" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="The Rage" x="3" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-6" y="7" z="7" spawntime="60" />
+		<monster name="The Rage" x="-4" y="8" z="7" spawntime="60" />
+		<monster name="Souleater" x="4" y="9" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="1" y="10" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="8" y="10" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="669" centery="744" centerz="7" radius="10">
+		<monster name="Souleater" x="-8" y="-6" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-3" y="-6" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-8" y="-3" z="7" spawntime="60" />
+		<monster name="Souleater" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Souleater" x="5" y="9" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="748" centerz="7" radius="1">
+		<monster name="Weakened Frazzlemaw" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="710" centery="749" centerz="7" radius="10">
+		<monster name="The Rage" x="-7" y="0" z="7" spawntime="60" />
+		<monster name="Souleater" x="6" y="0" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-8" y="1" z="7" spawntime="60" />
+		<monster name="The Rage" x="9" y="1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-10" y="7" z="7" spawntime="60" />
+		<monster name="Souleater" x="-6" y="7" z="7" spawntime="60" />
+		<monster name="The Rage" x="-4" y="7" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-1" y="7" z="7" spawntime="60" />
+		<monster name="Souleater" x="3" y="8" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="8" y="9" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="749" centerz="7" radius="10">
+		<monster name="Weakened Frazzlemaw" x="0" y="-6" z="7" spawntime="60" />
+		<monster name="Souleater" x="4" y="-6" z="7" spawntime="60" />
+		<monster name="The Rage" x="5" y="-3" z="7" spawntime="60" />
+		<monster name="The Rage" x="-6" y="-2" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="4" y="-1" z="7" spawntime="60" />
+		<monster name="Souleater" x="8" y="-1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="8" y="1" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-8" y="4" z="7" spawntime="60" />
+		<monster name="The Rage" x="8" y="4" z="7" spawntime="60" />
+		<monster name="Souleater" x="-9" y="5" z="7" spawntime="60" />
+		<monster name="The Rage" x="-6" y="5" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="6" y="5" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="0" y="8" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="752" centerz="7" radius="10">
+		<monster name="Weakened Frazzlemaw" x="7" y="-2" z="7" spawntime="60" />
+		<monster name="The Rage" x="8" y="0" z="7" spawntime="60" />
+		<monster name="The Rage" x="0" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="7" y="3" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-5" y="4" z="7" spawntime="60" />
+		<monster name="Souleater" x="5" y="5" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="727" centery="759" centerz="7" radius="10">
+		<monster name="The Rage" x="-6" y="0" z="7" spawntime="60" />
+		<monster name="Souleater" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="The Rage" x="6" y="2" z="7" spawntime="60" />
+		<monster name="Souleater" x="7" y="3" z="7" spawntime="60" />
+		<monster name="The Rage" x="1" y="5" z="7" spawntime="60" />
+		<monster name="Weakened Frazzlemaw" x="5" y="6" z="7" spawntime="60" />
+		<monster name="Souleater" x="3" y="8" z="7" spawntime="60" />
+	</monster>
+</monsters>

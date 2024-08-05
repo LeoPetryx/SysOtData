@@ -1,0 +1,1847 @@
+<?xml version="1.0"?>
+<monsters>
+	<monster centerx="1164" centery="750" centerz="0" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="-2" z="0" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="2" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="752" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="2" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="752" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1176" centery="752" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="0" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="2" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1190" centery="754" centerz="0" radius="5">
+		<monster name="Spiky Carnivor" x="2" y="1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="760" centerz="0" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1168" centery="762" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="-1" z="0" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="763" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="0" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1130" centery="765" centerz="0" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="0" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="2" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="0" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="3" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="766" centerz="0" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1181" centery="769" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="-1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="-3" y="-2" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="0" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-3" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="773" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="0" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="775" centerz="0" radius="5">
+		<monster name="Lumbering Carnivor" x="1" y="-4" z="0" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="4" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="781" centerz="0" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="781" centerz="0" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="-1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1161" centery="782" centerz="0" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="0" z="0" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1137" centery="783" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="787" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1142" centery="787" centerz="0" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="0" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="738" centerz="1" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="0" z="1" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="1" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="745" centerz="1" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="745" centerz="1" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="1" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-3" y="2" z="1" spawntime="60" />
+		<monster name="Spiky Carnivor" x="2" y="3" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1189" centery="751" centerz="1" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-1" z="1" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="2" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="1" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="1" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1159" centery="752" centerz="1" radius="1">
+		<monster name="Menacing Carnivor" x="1" y="0" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1118" centery="757" centerz="1" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-4" z="1" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="4" z="1" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="5" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1152" centery="758" centerz="1" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="1" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="1" z="1" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="2" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1177" centery="758" centerz="1" radius="5">
+		<monster name="Menacing Carnivor" x="-3" y="-3" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="1" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="2" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1195" centery="762" centerz="1" radius="5">
+		<monster name="Menacing Carnivor" x="1" y="1" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="1" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-2" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="1" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="1" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="2" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1123" centery="769" centerz="1" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1172" centery="772" centerz="1" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="0" z="1" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="1" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="1" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="773" centerz="1" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="1" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="2" z="1" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="738" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="0" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="738" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="738" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="-1" z="2" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="738" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="738" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="745" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="745" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="745" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="745" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="2" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-3" z="2" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="752" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="3" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="752" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="759" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-2" z="2" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="759" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="759" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="759" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="759" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="2" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="766" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="0" y="-3" z="2" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="-1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-3" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="766" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-3" z="2" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="766" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="766" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="766" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="773" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="773" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="773" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="773" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="773" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="773" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="2" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="-2" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="780" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="780" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="0" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="780" centerz="2" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="0" z="2" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="3" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="780" centerz="2" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="2" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="0" z="2" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="715" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-3" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-4" y="5" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-1" y="5" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="4" y="5" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="715" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="701" centery="716" centerz="3" radius="5">
+		<monster name="Crazed Nature Rearguard" x="-3" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-5" y="4" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="718" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-2" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-2" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-3" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="718" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="2" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-4" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="718" centerz="3" radius="5" />
+	<monster centerx="710" centery="721" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="0" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-5" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="721" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-5" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="727" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-4" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="727" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="728" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="701" centery="732" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="732" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-2" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="5" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="732" centerz="3" radius="5">
+		<monster name="Crazed Nature Rearguard" x="3" y="-4" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="3" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="704" centery="733" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="1" y="-1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="684" centery="736" centerz="3" radius="5">
+		<monster name="Crazed Nature Rearguard" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="3" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="4" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="5" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-5" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="736" centerz="3" radius="5">
+		<monster name="Crazed Nature Rearguard" x="1" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="738" centerz="3" radius="4">
+		<monster name="Crazed Summer Rearguard" x="-3" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="743" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-2" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="710" centery="743" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="2" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="5" y="0" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-1" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="743" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="285432064" />
+	</monster>
+	<monster centerx="721" centery="743" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="744" centerz="3" radius="5">
+		<monster name="Crazed Summer Rearguard" x="-3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-1" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-2" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="1" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="745" centerz="3" radius="4">
+		<monster name="Crazed Summer Rearguard" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="747" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="750" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="750" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="750" centerz="3" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="-2" z="3" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="751" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-2" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="751" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="752" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="752" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="752" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1176" centery="752" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="3" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="753" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="754" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="754" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-3" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="3" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="0" y="1" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="754" centerz="3" radius="4">
+		<monster name="Crazed Summer Rearguard" x="1" y="-3" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="-2" z="3" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1190" centery="754" centerz="3" radius="5">
+		<monster name="Spiky Carnivor" x="2" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="688" centery="756" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="710" centery="756" centerz="3" radius="1">
+		<monster name="Crazed Summer Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="756" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="757" centerz="3" radius="4">
+		<monster name="Crazed Nature Rearguard" x="3" y="-1" z="3" spawntime="60" />
+		<monster name="Crazed Summer Rearguard" x="-2" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="708" centery="758" centerz="3" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="760" centerz="3" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1168" centery="762" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="763" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1130" centery="765" centerz="3" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="3" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="3" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="766" centerz="3" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1181" centery="769" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="-1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="-3" y="-2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="3" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-3" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="773" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="0" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="775" centerz="3" radius="5">
+		<monster name="Lumbering Carnivor" x="1" y="-4" z="3" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="4" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="781" centerz="3" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="781" centerz="3" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="-1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1161" centery="782" centerz="3" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="0" z="3" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1137" centery="783" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="787" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="1142" centery="787" centerz="3" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="3" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="715" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="716" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="4" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="718" centerz="4" radius="5">
+		<monster name="Crazed Winter Rearguard" x="-1" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-4" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="5" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="718" centerz="4" radius="5">
+		<monster name="Crazed Nature Rearguard" x="-1" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="5" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="719" centerz="4" radius="5">
+		<monster name="Crazed Winter Rearguard" x="-3" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="3" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-3" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="721" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="4" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="721" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="0" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="725" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="727" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="2" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="728" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-3" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="728" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="0" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="4" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-4" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="728" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="0" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="728" centerz="4" radius="1">
+		<monster name="Crazed Winter Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="728" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="704" centery="733" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="736" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="736" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="4" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-3" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="736" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="2" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="738" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-2" y="-4" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="3" y="3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="738" centerz="4" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="0" z="4" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="743" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="4" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="744" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-2" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="2" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="745" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="0" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="745" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-3" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="745" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="745" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-4" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="745" centerz="4" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="745" centerz="4" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="4" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-3" y="2" z="4" spawntime="60" />
+		<monster name="Spiky Carnivor" x="2" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="750" centerz="4" radius="1">
+		<monster name="Crazed Nature Rearguard" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1189" centery="751" centerz="4" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-1" z="4" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="752" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-2" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="4" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="3" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="752" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="4" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="0" y="4" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="4" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="4" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1159" centery="752" centerz="4" radius="1">
+		<monster name="Menacing Carnivor" x="1" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="754" centerz="4" radius="4">
+		<monster name="Crazed Winter Rearguard" x="-3" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="0" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="1" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-2" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="2" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="754" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-1" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="-3" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="1" y="2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-3" y="3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="0" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="702" centery="754" centerz="4" radius="4">
+		<monster name="Crazed Nature Rearguard" x="-2" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="1" y="-2" z="4" spawntime="60" />
+		<monster name="Crazed Nature Rearguard" x="-4" y="3" z="4" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="716" centery="757" centerz="4" radius="4" />
+	<monster centerx="1118" centery="757" centerz="4" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-4" z="4" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="4" z="4" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="5" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1152" centery="758" centerz="4" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="4" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="1" z="4" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1177" centery="758" centerz="4" radius="5">
+		<monster name="Menacing Carnivor" x="-3" y="-3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="4" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1195" centery="762" centerz="4" radius="5">
+		<monster name="Menacing Carnivor" x="1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="4" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="4" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="4" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1123" centery="769" centerz="4" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1172" centery="772" centerz="4" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="4" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="4" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="773" centerz="4" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="4" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="2" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="690" centery="713" centerz="5" radius="10">
+		<monster name="Infernatil" x="-5" y="-8" z="5" spawntime="60" />
+		<monster name="Infernatil" x="0" y="-3" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-5" y="-2" z="5" spawntime="60" />
+		<monster name="Infernatil" x="1" y="3" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-7" y="8" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-1" y="10" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="713" centery="714" centerz="5" radius="10">
+		<monster name="Infernatil" x="1" y="-4" z="5" spawntime="60" />
+		<monster name="Infernatil" x="6" y="-3" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-6" y="0" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-5" y="4" z="5" spawntime="60" />
+		<monster name="Infernatil" x="3" y="7" z="5" spawntime="60" />
+		<monster name="Infernatil" x="5" y="8" z="5" spawntime="60" />
+		<monster name="Infernatil" x="9" y="10" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="677" centery="721" centerz="5" radius="10">
+		<monster name="Infernatil" x="-3" y="-6" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-4" y="3" z="5" spawntime="60" />
+		<monster name="Infernatil" x="3" y="7" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-2" y="9" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="698" centery="724" centerz="5" radius="10">
+		<monster name="Infernatil" x="2" y="0" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-7" y="3" z="5" spawntime="60" />
+		<monster name="Infernatil" x="2" y="4" z="5" spawntime="60" />
+		<monster name="Infernatil" x="8" y="4" z="5" spawntime="60" />
+		<monster name="Infernatil" x="1" y="9" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="709" centery="729" centerz="5" radius="10">
+		<monster name="Infernatil" x="1" y="1" z="5" spawntime="60" />
+		<monster name="Infernatil" x="4" y="9" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="724" centery="730" centerz="5" radius="10">
+		<monster name="Infernatil" x="5" y="-1" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-3" y="2" z="5" spawntime="60" />
+		<monster name="Infernatil" x="4" y="3" z="5" spawntime="60" />
+		<monster name="Infernatil" x="7" y="8" z="5" spawntime="60" />
+		<monster name="Infernatil" x="3" y="10" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="676" centery="736" centerz="5" radius="10">
+		<monster name="Infernatil" x="9" y="-4" z="5" spawntime="60" />
+		<monster name="Infernatil" x="5" y="-1" z="5" spawntime="60" />
+		<monster name="Infernatil" x="0" y="2" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-10" y="4" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-8" y="5" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-3" y="5" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-1" y="6" z="5" spawntime="60" />
+		<monster name="Infernatil" x="10" y="9" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="691" centery="737" centerz="5" radius="10">
+		<monster name="Infernatil" x="4" y="9" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="738" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="738" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="738" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="-1" z="5" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="738" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="738" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="668" centery="744" centerz="5" radius="10">
+		<monster name="Infernatil" x="6" y="3" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="709" centery="745" centerz="5" radius="10">
+		<monster name="Infernatil" x="-4" y="-5" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-5" y="3" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-3" y="4" z="5" spawntime="60" />
+		<monster name="Infernatil" x="2" y="7" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="745" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="745" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="745" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="745" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="5" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="696" centery="749" centerz="5" radius="10">
+		<monster name="Infernatil" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-5" y="5" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="683" centery="751" centerz="5" radius="10">
+		<monster name="Infernatil" x="-3" y="-3" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-7" y="4" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-3" z="5" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="752" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="3" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="752" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="729" centery="753" centerz="5" radius="10">
+		<monster name="Infernatil" x="-9" y="-10" z="5" spawntime="60" />
+		<monster name="Infernatil" x="0" y="-6" z="5" spawntime="60" />
+		<monster name="Infernatil" x="7" y="1" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-5" y="2" z="5" spawntime="60" />
+		<monster name="Infernatil" x="-2" y="5" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="759" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="759" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="759" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="759" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="759" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="5" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="766" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="0" y="-3" z="5" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="-1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-3" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="766" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-3" z="5" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="766" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="766" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="766" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="773" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="773" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="773" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="773" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="773" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="773" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="5" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="-2" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="780" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="780" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="780" centerz="5" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="0" z="5" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="3" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="780" centerz="5" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="5" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="685" centery="717" centerz="6" radius="20">
+		<monster name="Verminor" x="8" y="-15" z="6" spawntime="60" />
+		<monster name="Verminor" x="6" y="-11" z="6" spawntime="60" />
+		<monster name="Verminor" x="7" y="-11" z="6" spawntime="-1654919936" />
+		<monster name="Verminor" x="3" y="-10" z="6" spawntime="60" />
+		<monster name="Verminor" x="-6" y="-2" z="6" spawntime="60" />
+		<monster name="Verminor" x="8" y="-2" z="6" spawntime="60" />
+		<monster name="Verminor" x="13" y="-2" z="6" spawntime="60" />
+		<monster name="Verminor" x="-12" y="1" z="6" spawntime="60" />
+		<monster name="Verminor" x="4" y="2" z="6" spawntime="60" />
+		<monster name="Verminor" x="-11" y="5" z="6" spawntime="60" />
+		<monster name="Verminor" x="18" y="6" z="6" spawntime="60" />
+		<monster name="Verminor" x="-3" y="7" z="6" spawntime="60" />
+		<monster name="Verminor" x="11" y="7" z="6" spawntime="60" />
+		<monster name="Verminor" x="7" y="11" z="6" spawntime="60" />
+		<monster name="Verminor" x="-8" y="14" z="6" spawntime="60" />
+		<monster name="Verminor" x="2" y="16" z="6" spawntime="60" />
+		<monster name="Verminor" x="16" y="16" z="6" spawntime="60" />
+		<monster name="Verminor" x="-11" y="17" z="6" spawntime="60" />
+		<monster name="Verminor" x="3" y="19" z="6" spawntime="60" />
+		<monster name="Verminor" x="12" y="19" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="714" centery="721" centerz="6" radius="20">
+		<monster name="Verminor" x="-7" y="-9" z="6" spawntime="60" />
+		<monster name="Verminor" x="-6" y="-2" z="6" spawntime="60" />
+		<monster name="Verminor" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Verminor" x="6" y="2" z="6" spawntime="60" />
+		<monster name="Verminor" x="-7" y="6" z="6" spawntime="60" />
+		<monster name="Verminor" x="8" y="6" z="6" spawntime="60" />
+		<monster name="Verminor" x="-7" y="10" z="6" spawntime="60" />
+		<monster name="Verminor" x="2" y="12" z="6" spawntime="60" />
+		<monster name="Verminor" x="-3" y="14" z="6" spawntime="60" />
+		<monster name="Verminor" x="13" y="14" z="6" spawntime="60" />
+		<monster name="Verminor" x="-16" y="17" z="6" spawntime="60" />
+		<monster name="Verminor" x="7" y="19" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="718" centery="730" centerz="6" radius="20">
+		<monster name="Verminor" x="2" y="12" z="6" spawntime="60" />
+		<monster name="Verminor" x="15" y="12" z="6" spawntime="60" />
+		<monster name="Verminor" x="-13" y="13" z="6" spawntime="60" />
+		<monster name="Verminor" x="-6" y="14" z="6" spawntime="60" />
+		<monster name="Verminor" x="11" y="15" z="6" spawntime="60" />
+		<monster name="Verminor" x="2" y="20" z="6" spawntime="60" />
+		<monster name="Verminor" x="19" y="20" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="681" centery="742" centerz="6" radius="20">
+		<monster name="Verminor" x="-13" y="-2" z="6" spawntime="60" />
+		<monster name="Verminor" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Verminor" x="-13" y="2" z="6" spawntime="60" />
+		<monster name="Verminor" x="3" y="3" z="6" spawntime="60" />
+		<monster name="Verminor" x="12" y="3" z="6" spawntime="60" />
+		<monster name="Verminor" x="11" y="6" z="6" spawntime="60" />
+		<monster name="Verminor" x="-4" y="11" z="6" spawntime="60" />
+		<monster name="Verminor" x="7" y="12" z="6" spawntime="60" />
+		<monster name="Verminor" x="3" y="14" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="706" centery="747" centerz="6" radius="20">
+		<monster name="Verminor" x="8" y="5" z="6" spawntime="60" />
+		<monster name="Verminor" x="5" y="7" z="6" spawntime="60" />
+		<monster name="Verminor" x="1" y="8" z="6" spawntime="60" />
+		<monster name="Verminor" x="18" y="11" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="750" centerz="6" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="-2" z="6" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="729" centery="752" centerz="6" radius="20">
+		<monster name="Verminor" x="3" y="2" z="6" spawntime="60" />
+		<monster name="Verminor" x="0" y="7" z="6" spawntime="60" />
+		<monster name="Verminor" x="0" y="13" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="752" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="752" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1176" centery="752" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1190" centery="754" centerz="6" radius="5">
+		<monster name="Spiky Carnivor" x="2" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="760" centerz="6" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1168" centery="762" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="763" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1130" centery="765" centerz="6" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="6" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="766" centerz="6" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1181" centery="769" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="-3" y="-2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="6" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="773" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="775" centerz="6" radius="5">
+		<monster name="Lumbering Carnivor" x="1" y="-4" z="6" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="4" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="781" centerz="6" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="781" centerz="6" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1161" centery="782" centerz="6" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="0" z="6" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1137" centery="783" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="787" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="1142" centery="787" centerz="6" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="690" centery="705" centerz="7" radius="10">
+		<monster name="Apocalypse" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="6" y="3" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="4" y="9" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="719" centerz="7" radius="10">
+		<monster name="Apocalypse" x="-3" y="-5" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-10" y="-4" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="4" y="6" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="10" y="8" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-8" y="10" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="681" centery="724" centerz="7" radius="20">
+		<monster name="Apocalypse" x="-4" y="-10" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-14" y="-9" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="5" y="-6" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-6" y="-5" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="9" y="0" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="9" y="6" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-8" y="8" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-10" y="11" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-1" y="13" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="738" centerz="7" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="715" centery="739" centerz="7" radius="20">
+		<monster name="Apocalypse" x="14" y="-11" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="14" y="-2" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="7" y="-1" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-2" y="15" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="3" y="15" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-13" y="16" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-9" y="18" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="680" centery="743" centerz="7" radius="20">
+		<monster name="Apocalypse" x="9" y="9" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="2" y="10" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="7" y="14" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="745" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="745" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="749" centerz="7" radius="10">
+		<monster name="Apocalypse" x="3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1189" centery="751" centerz="7" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="7" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1159" centery="752" centerz="7" radius="1">
+		<monster name="Menacing Carnivor" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1118" centery="757" centerz="7" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-4" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="4" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="5" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1152" centery="758" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1177" centery="758" centerz="7" radius="5">
+		<monster name="Menacing Carnivor" x="-3" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="727" centery="759" centerz="7" radius="10">
+		<monster name="Apocalypse" x="0" y="8" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1195" centery="762" centerz="7" radius="5">
+		<monster name="Menacing Carnivor" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1123" centery="769" centerz="7" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1172" centery="772" centerz="7" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="773" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="738" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="738" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="738" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="-1" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="738" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="738" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="745" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="745" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="745" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="745" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-3" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="752" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="752" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="759" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="759" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="759" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="759" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="759" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="766" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="0" y="-3" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="-1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="766" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-3" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="766" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="766" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="766" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="773" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="773" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="773" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="773" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="773" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="773" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="780" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="780" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="780" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="780" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="750" centerz="9" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="-2" z="9" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="752" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="752" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1176" centery="752" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="9" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1190" centery="754" centerz="9" radius="5">
+		<monster name="Spiky Carnivor" x="2" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="760" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1168" centery="762" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="763" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1130" centery="765" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="9" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="766" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1181" centery="769" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="-3" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="773" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="775" centerz="9" radius="5">
+		<monster name="Lumbering Carnivor" x="1" y="-4" z="9" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="4" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="781" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="781" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1161" centery="782" centerz="9" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="0" z="9" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1137" centery="783" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="787" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1142" centery="787" centerz="9" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="738" centerz="10" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="0" z="10" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="745" centerz="10" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="745" centerz="10" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="10" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-3" y="2" z="10" spawntime="60" />
+		<monster name="Spiky Carnivor" x="2" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1189" centery="751" centerz="10" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-1" z="10" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="10" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1159" centery="752" centerz="10" radius="1">
+		<monster name="Menacing Carnivor" x="1" y="0" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1118" centery="757" centerz="10" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-4" z="10" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="4" z="10" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="5" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1152" centery="758" centerz="10" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="10" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="1" z="10" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1177" centery="758" centerz="10" radius="5">
+		<monster name="Menacing Carnivor" x="-3" y="-3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="10" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1195" centery="762" centerz="10" radius="5">
+		<monster name="Menacing Carnivor" x="1" y="1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="10" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="10" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="10" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1123" centery="769" centerz="10" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1172" centery="772" centerz="10" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="0" z="10" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="10" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="10" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="773" centerz="10" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="10" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="738" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="0" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="738" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="738" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="-1" z="11" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="738" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="738" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="745" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="745" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="745" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="745" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="11" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-3" z="11" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="752" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-1" z="11" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="3" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="752" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="759" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-2" z="11" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="759" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="759" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="759" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="759" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="11" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="766" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="0" y="-3" z="11" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="-1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-3" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="766" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-3" z="11" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="766" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="766" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="766" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="773" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="773" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="773" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="773" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="773" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="773" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="11" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="-2" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="780" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="780" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="0" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="780" centerz="11" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="0" z="11" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="3" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="780" centerz="11" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="11" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="0" z="11" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="750" centerz="12" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="-2" z="12" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="2" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="752" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="2" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="752" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1176" centery="752" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="12" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="2" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1190" centery="754" centerz="12" radius="5">
+		<monster name="Spiky Carnivor" x="2" y="1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="760" centerz="12" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1168" centery="762" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="-1" z="12" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="763" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="0" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1130" centery="765" centerz="12" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="12" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="2" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="12" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="3" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="766" centerz="12" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1181" centery="769" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="-1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="-3" y="-2" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="12" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-3" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="773" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="0" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1192" centery="775" centerz="12" radius="5">
+		<monster name="Lumbering Carnivor" x="1" y="-4" z="12" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="4" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="781" centerz="12" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="781" centerz="12" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="-1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1161" centery="782" centerz="12" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="0" z="12" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1137" centery="783" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="787" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1142" centery="787" centerz="12" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="12" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="738" centerz="13" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="0" z="13" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="1" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="745" centerz="13" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="745" centerz="13" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="13" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-3" y="2" z="13" spawntime="60" />
+		<monster name="Spiky Carnivor" x="2" y="3" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1189" centery="751" centerz="13" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-1" z="13" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="2" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="13" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="1" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1159" centery="752" centerz="13" radius="1">
+		<monster name="Menacing Carnivor" x="1" y="0" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1118" centery="757" centerz="13" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-4" z="13" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="4" z="13" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="5" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1152" centery="758" centerz="13" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="13" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="1" z="13" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="2" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1177" centery="758" centerz="13" radius="5">
+		<monster name="Menacing Carnivor" x="-3" y="-3" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="13" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="2" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1195" centery="762" centerz="13" radius="5">
+		<monster name="Menacing Carnivor" x="1" y="1" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="13" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-2" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="766" centerz="13" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="13" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="2" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1123" centery="769" centerz="13" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1172" centery="772" centerz="13" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="0" z="13" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="13" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="13" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="773" centerz="13" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="13" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="2" z="13" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="738" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="0" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="738" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="738" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="-1" z="14" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="738" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="738" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="745" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="745" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="745" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="745" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="14" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="752" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-3" z="14" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="752" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="3" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="752" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1120" centery="759" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-2" z="14" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="759" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="759" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="759" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="759" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1185" centery="759" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="14" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="766" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="0" y="-3" z="14" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="-1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="766" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-3" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="766" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-3" z="14" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="766" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="766" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="766" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1122" centery="773" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1129" centery="773" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="773" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="773" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1150" centery="773" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="773" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1164" centery="773" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1178" centery="773" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="14" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="-2" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1136" centery="780" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1143" centery="780" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="0" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1157" centery="780" centerz="14" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="0" z="14" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="3" z="14" spawntime="60" />
+	</monster>
+	<monster centerx="1171" centery="780" centerz="14" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="14" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="0" z="14" spawntime="60" />
+	</monster>
+</monsters>
