@@ -107,6 +107,12 @@ local itemFunctions = {
 			return item:setAttribute(ITEM_ATTRIBUTE_ARMOR, target)
 		end,
 	},
+	["itemlevel"] = {
+		isActive = true,
+		targetFunction = function(item, target)
+			return item:setAttribute(ITEM_ATTRIBUTE_ITEMLEVEL, target)
+		end,
+	},
 }
 
 local creatureFunctions = {

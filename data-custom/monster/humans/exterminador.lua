@@ -2,7 +2,7 @@ local mType = Game.createMonsterType("Exterminador")
 local monster = {}
 
 monster.description = "exterminador"
-monster.experience = 50000
+monster.experience = 300000
 monster.outfit = {
 	lookType = 134,
 	lookHead = 114,
@@ -79,16 +79,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 2920, chance = 29980, maxCount = 2 }, -- torch
-	{ id = 3031, chance = 83210, maxCount = 50 }, -- gold coin
-	{ id = 3031, chance = 7250, maxCount = 14 } -- gold coin
+	{ id = 3043, chance = 83210, maxCount = 5 }, -- gold coin
 }
 
 monster.attacks = {
-	{ name = "melee", interval = 2000, chance = 100, minDamage = 0, maxDamage = -120 },
-	{ name = "combat", interval = 2000, chance = 15, type = COMBAT_PHYSICALDAMAGE, minDamage = 0, maxDamage = -40, range = 7, shootEffect = CONST_ANI_THROWINGSTAR, target = false },
-	-- poison
-	{ name = "condition", type = CONDITION_POISON, interval = 2000, chance = 10, minDamage = -120, maxDamage = -160, range = 7, shootEffect = CONST_ANI_POISON, effect = CONST_ME_POISONAREA, target = false },
+	{ name = "melee", interval = 1000, chance = 100, minDamage = -1500, maxDamage = -2000 },
 }
 
 monster.defenses = {
@@ -97,7 +92,7 @@ monster.defenses = {
 }
 
 monster.elements = {
-	{ type = COMBAT_PHYSICALDAMAGE, percent = -5 },
+	{ type = COMBAT_PHYSICALDAMAGE, percent = 0 },
 	{ type = COMBAT_ENERGYDAMAGE, percent = 0 },
 	{ type = COMBAT_EARTHDAMAGE, percent = 0 },
 	{ type = COMBAT_FIREDAMAGE, percent = 0 },
@@ -106,7 +101,7 @@ monster.elements = {
 	{ type = COMBAT_DROWNDAMAGE, percent = 0 },
 	{ type = COMBAT_ICEDAMAGE, percent = 0 },
 	{ type = COMBAT_HOLYDAMAGE, percent = 0 },
-	{ type = COMBAT_DEATHDAMAGE, percent = -5 },
+	{ type = COMBAT_DEATHDAMAGE, percent = 0 },
 }
 
 monster.immunities = {

@@ -20,9 +20,21 @@ end
 local playerLoginGlobal = CreatureEvent("PlayerLoginGlobal")
 
 function playerLoginGlobal.onLogin(player)
+
+
+	if player:getLevel() < 120 then
+		local targetLevel = 120		
+		local targetExp = Game.getExperienceForLevel(targetLevel)
+		addExp = targetExp - player:getExperience()
+		player:addExperience(addExp, false)
+		return true
+	end
+
+
+
+
+
 	-- Welcome
-	player:setStorageValue(85600, 1)
-	player:setStorageValue(85601, 0)
 	local loginStr
 	if player:getLastLoginSaved() == 0 then
 		loginStr = "Please choose your outfit."

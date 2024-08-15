@@ -7652,11 +7652,11 @@ void ProtocolGame::AddPlayerStats(NetworkMessage &msg) {
 	msg.addByte(0xA0);
 
 	if (oldProtocol) {
-		msg.add<uint16_t>(std::min<int32_t>(player->getHealth(), 100000000));
-		msg.add<uint16_t>(std::min<int32_t>(player->getMaxHealth(), 100000000));
+		msg.add<uint16_t>(std::min<int32_t>(player->getHealth(), 50000000));
+		msg.add<uint16_t>(std::min<int32_t>(player->getMaxHealth(), 5000000));
 	} else {
-		msg.add<uint32_t>(std::min<int32_t>(player->getHealth(), 100000000));
-		msg.add<uint32_t>(std::min<int32_t>(player->getMaxHealth(), 100000000));
+		msg.add<uint32_t>(std::min<int32_t>(player->getHealth(), 50000000));
+		msg.add<uint32_t>(std::min<int32_t>(player->getMaxHealth(), 5000000));
 	}
 
 	msg.add<uint32_t>(player->hasFlag(PlayerFlags_t::HasInfiniteCapacity) ? 1000000 : player->getFreeCapacity());
@@ -7680,11 +7680,11 @@ void ProtocolGame::AddPlayerStats(NetworkMessage &msg) {
 	msg.add<uint16_t>(player->getStaminaXpBoost()); // stamina multiplier (100 = 1.0x)
 
 	if (!oldProtocol) {
-		msg.add<uint32_t>(std::min<int32_t>(player->getMana(), 100000000));
-		msg.add<uint32_t>(std::min<int32_t>(player->getMaxMana(), 100000000));
+		msg.add<uint32_t>(std::min<int32_t>(player->getMana(), 50000000));
+		msg.add<uint32_t>(std::min<int32_t>(player->getMaxMana(), 50000000));
 	} else {
-		msg.add<uint16_t>(std::min<int32_t>(player->getMana(), 100000000));
-		msg.add<uint16_t>(std::min<int32_t>(player->getMaxMana(), 100000000));
+		msg.add<uint16_t>(std::min<int32_t>(player->getMana(), 50000000));
+		msg.add<uint16_t>(std::min<int32_t>(player->getMaxMana(), 50000000));
 
 		msg.addByte(static_cast<uint8_t>(std::min<uint32_t>(player->getMagicLevel(), std::numeric_limits<uint8_t>::max())));
 		msg.addByte(static_cast<uint8_t>(std::min<uint32_t>(player->getBaseMagicLevel(), std::numeric_limits<uint8_t>::max())));

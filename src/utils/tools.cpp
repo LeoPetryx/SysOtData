@@ -1219,6 +1219,8 @@ ItemAttribute_t stringToItemAttribute(const std::string &str) {
 		return ItemAttribute_t::AMOUNT;
 	} else if (str == "tier") {
 		return ItemAttribute_t::TIER;
+	} else if (str == "itemlevel") {
+		return ItemAttribute_t::ITEMLEVEL;
 	} else if (str == "lootmessagesuffix") {
 		return ItemAttribute_t::LOOTMESSAGE_SUFFIX;
 	}

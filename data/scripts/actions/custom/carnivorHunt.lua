@@ -15,7 +15,7 @@ local exhaustionTime =  20 * 60 * 60
 local huntCoin = Action()
 
 
-function hasPlayerInArea(fromPos, toPos, isPlayer)
+local function hasPlayerInArea(fromPos, toPos, isPlayer)
 	local fromPosition, toPosition = fromPos, toPos
 	local hasPlayer = false
 	for positionX = fromPosition.x, toPosition.x do
@@ -42,7 +42,7 @@ function hasPlayerInArea(fromPos, toPos, isPlayer)
 	return hasPlayer
 end
 
-function playerRemove(fromPos, toPos)
+local function playerRemove(fromPos, toPos)
 	local fromPosition, toPosition = fromPos, toPos
 	for positionX = fromPosition.x, toPosition.x do
 		for positionY = fromPosition.y, toPosition.y do
@@ -68,7 +68,7 @@ function playerRemove(fromPos, toPos)
 	end
 end
 
-function getTime(time)
+local function getTime(time)
 	local horas = math.floor(time / 3600)
 	local minutos = math.floor((time - (horas * 3600)) / 60)
 	local segundos = math.floor(time % 60)

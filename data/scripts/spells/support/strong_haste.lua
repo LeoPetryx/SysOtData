@@ -35,7 +35,6 @@ spell:vocation("druid;true", "elder druid;true", "sorcerer;true", "master sorcer
 spell:castSound(SOUND_EFFECT_TYPE_SPELL_STRONG_HASTE)
 spell:id(39)
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
 spell:level(20)
 spell:mana(100)
 spell:isSelfTarget(true)

@@ -600,14 +600,14 @@ void Combat::CombatHealthFunc(std::shared_ptr<Creature> caster, std::shared_ptr<
 		damage = applyImbuementElementalDamage(attackerPlayer, item, damage);
 		g_events().eventPlayerOnCombat(attackerPlayer, target, item, damage);
 
-		if (targetPlayer && targetPlayer->getSkull() != SKULL_BLACK) {
-			if (damage.primary.type != COMBAT_HEALING) {
-				damage.primary.value;
-			}
-			if (damage.secondary.type != COMBAT_HEALING) {
-				damage.secondary.value;
-			}
-		}
+		// if (targetPlayer && targetPlayer->getSkull() != SKULL_BLACK) {
+		// 	if (damage.primary.type != COMBAT_HEALING) {
+		// 		damage.primary.value /= 2;
+		// 	}
+		// 	if (damage.secondary.type != COMBAT_HEALING) {
+		// 		damage.secondary.value /= 2;
+		// 	}
+		// }
 
 		damage.damageMultiplier += attackerPlayer->wheel()->getMajorStatConditional("Divine Empowerment", WheelMajor_t::DAMAGE);
 		g_logger().trace("Wheel Divine Empowerment damage multiplier {}", damage.damageMultiplier);

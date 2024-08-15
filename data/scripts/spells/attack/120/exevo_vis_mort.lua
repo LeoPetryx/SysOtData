@@ -4,8 +4,8 @@ combat:setParameter(COMBAT_PARAM_EFFECT, CONST_ME_MORTAREA)
 combat:setArea(createCombatArea(AREA_BEAM7, AREADIAGONAL_BEAM7))
 
 function onGetFormulaValues(player, level, maglevel)
-	local min = (level * 1.8) + (maglevel * 20.3)
-	local max = (level * 2.4) + (maglevel * 22.8)
+	local min = (maglevel * 42.3) * (maglevel * 0.01)
+	local max = (maglevel * 42.8) * (maglevel * 0.01)
 	return -min, -max
 end
 

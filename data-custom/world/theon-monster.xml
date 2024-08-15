@@ -289,7 +289,6 @@
 		<monster name="Crazed Nature Rearguard" x="-4" y="-1" z="3" spawntime="60" />
 		<monster name="Crazed Summer Rearguard" x="-4" y="2" z="3" spawntime="60" />
 	</monster>
-	<monster centerx="702" centery="718" centerz="3" radius="5" />
 	<monster centerx="710" centery="721" centerz="3" radius="5">
 		<monster name="Crazed Summer Rearguard" x="0" y="1" z="3" spawntime="60" />
 		<monster name="Crazed Summer Rearguard" x="0" y="3" z="3" spawntime="60" />
@@ -720,7 +719,6 @@
 		<monster name="Crazed Nature Rearguard" x="-4" y="3" z="4" spawntime="60" />
 		<monster name="Crazed Winter Rearguard" x="-1" y="3" z="4" spawntime="60" />
 	</monster>
-	<monster centerx="716" centery="757" centerz="4" radius="4" />
 	<monster centerx="1118" centery="757" centerz="4" radius="5">
 		<monster name="Spiky Carnivor" x="-4" y="-4" z="4" spawntime="60" />
 		<monster name="Spiky Carnivor" x="3" y="4" z="4" spawntime="60" />
@@ -959,76 +957,140 @@
 		<monster name="Menacing Carnivor" x="2" y="-3" z="5" spawntime="60" />
 		<monster name="Menacing Carnivor" x="-1" y="0" z="5" spawntime="60" />
 	</monster>
-	<monster centerx="685" centery="717" centerz="6" radius="20">
-		<monster name="Verminor" x="8" y="-15" z="6" spawntime="60" />
-		<monster name="Verminor" x="6" y="-11" z="6" spawntime="60" />
-		<monster name="Verminor" x="7" y="-11" z="6" spawntime="-1654919936" />
-		<monster name="Verminor" x="3" y="-10" z="6" spawntime="60" />
-		<monster name="Verminor" x="-6" y="-2" z="6" spawntime="60" />
-		<monster name="Verminor" x="8" y="-2" z="6" spawntime="60" />
-		<monster name="Verminor" x="13" y="-2" z="6" spawntime="60" />
-		<monster name="Verminor" x="-12" y="1" z="6" spawntime="60" />
-		<monster name="Verminor" x="4" y="2" z="6" spawntime="60" />
-		<monster name="Verminor" x="-11" y="5" z="6" spawntime="60" />
-		<monster name="Verminor" x="18" y="6" z="6" spawntime="60" />
-		<monster name="Verminor" x="-3" y="7" z="6" spawntime="60" />
-		<monster name="Verminor" x="11" y="7" z="6" spawntime="60" />
-		<monster name="Verminor" x="7" y="11" z="6" spawntime="60" />
-		<monster name="Verminor" x="-8" y="14" z="6" spawntime="60" />
-		<monster name="Verminor" x="2" y="16" z="6" spawntime="60" />
-		<monster name="Verminor" x="16" y="16" z="6" spawntime="60" />
-		<monster name="Verminor" x="-11" y="17" z="6" spawntime="60" />
-		<monster name="Verminor" x="3" y="19" z="6" spawntime="60" />
-		<monster name="Verminor" x="12" y="19" z="6" spawntime="60" />
+	<monster centerx="685" centery="702" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="714" centery="721" centerz="6" radius="20">
-		<monster name="Verminor" x="-7" y="-9" z="6" spawntime="60" />
-		<monster name="Verminor" x="-6" y="-2" z="6" spawntime="60" />
-		<monster name="Verminor" x="-2" y="-1" z="6" spawntime="60" />
-		<monster name="Verminor" x="6" y="2" z="6" spawntime="60" />
-		<monster name="Verminor" x="-7" y="6" z="6" spawntime="60" />
-		<monster name="Verminor" x="8" y="6" z="6" spawntime="60" />
-		<monster name="Verminor" x="-7" y="10" z="6" spawntime="60" />
-		<monster name="Verminor" x="2" y="12" z="6" spawntime="60" />
-		<monster name="Verminor" x="-3" y="14" z="6" spawntime="60" />
-		<monster name="Verminor" x="13" y="14" z="6" spawntime="60" />
-		<monster name="Verminor" x="-16" y="17" z="6" spawntime="60" />
-		<monster name="Verminor" x="7" y="19" z="6" spawntime="60" />
+	<monster centerx="685" centery="707" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="718" centery="730" centerz="6" radius="20">
-		<monster name="Verminor" x="2" y="12" z="6" spawntime="60" />
-		<monster name="Verminor" x="15" y="12" z="6" spawntime="60" />
-		<monster name="Verminor" x="-13" y="13" z="6" spawntime="60" />
-		<monster name="Verminor" x="-6" y="14" z="6" spawntime="60" />
-		<monster name="Verminor" x="11" y="15" z="6" spawntime="60" />
-		<monster name="Verminor" x="2" y="20" z="6" spawntime="60" />
-		<monster name="Verminor" x="19" y="20" z="6" spawntime="60" />
+	<monster centerx="696" centery="707" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="681" centery="742" centerz="6" radius="20">
-		<monster name="Verminor" x="-13" y="-2" z="6" spawntime="60" />
-		<monster name="Verminor" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Verminor" x="-13" y="2" z="6" spawntime="60" />
-		<monster name="Verminor" x="3" y="3" z="6" spawntime="60" />
-		<monster name="Verminor" x="12" y="3" z="6" spawntime="60" />
-		<monster name="Verminor" x="11" y="6" z="6" spawntime="60" />
-		<monster name="Verminor" x="-4" y="11" z="6" spawntime="60" />
-		<monster name="Verminor" x="7" y="12" z="6" spawntime="60" />
-		<monster name="Verminor" x="3" y="14" z="6" spawntime="60" />
+	<monster centerx="692" centery="709" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="706" centery="747" centerz="6" radius="20">
-		<monster name="Verminor" x="8" y="5" z="6" spawntime="60" />
-		<monster name="Verminor" x="5" y="7" z="6" spawntime="60" />
-		<monster name="Verminor" x="1" y="8" z="6" spawntime="60" />
-		<monster name="Verminor" x="18" y="11" z="6" spawntime="60" />
+	<monster centerx="707" centery="711" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="697" centery="715" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="715" centery="715" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="684" centery="717" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="697" centery="717" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="706" centery="717" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="670" centery="718" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="675" centery="718" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="713" centery="718" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="709" centery="719" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="721" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="682" centery="724" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="693" centery="725" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="701" centery="725" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="709" centery="726" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="722" centery="726" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="676" centery="728" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Verminor" x="0" y="1" z="6" spawntime="257487104" />
+	</monster>
+	<monster centerx="689" centery="728" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="674" centery="732" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="718" centery="733" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="685" centery="734" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="700" centery="734" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="727" centery="734" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="688" centery="735" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="736" centerz="6" radius="1">
+		<monster name="Verminor" x="-1" y="0" z="6" spawntime="257487104" />
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="696" centery="737" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="671" centery="740" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="681" centery="740" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="719" centery="741" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="706" centery="743" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="711" centery="744" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="744" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="668" centery="745" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="680" centery="745" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="694" centery="745" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="746" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="741" centery="750" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="1164" centery="750" centerz="6" radius="5">
 		<monster name="Spiky Carnivor" x="3" y="-2" z="6" spawntime="60" />
 		<monster name="Spiky Carnivor" x="-3" y="2" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="729" centery="752" centerz="6" radius="20">
-		<monster name="Verminor" x="3" y="2" z="6" spawntime="60" />
-		<monster name="Verminor" x="0" y="7" z="6" spawntime="60" />
-		<monster name="Verminor" x="0" y="13" z="6" spawntime="60" />
+	<monster centerx="717" centery="752" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="736" centery="752" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="1122" centery="752" centerz="6" radius="3">
 		<monster name="Lumbering Carnivor" x="3" y="2" z="6" spawntime="60" />
@@ -1043,11 +1105,41 @@
 		<monster name="Lumbering Carnivor" x="2" y="-2" z="6" spawntime="60" />
 		<monster name="Lumbering Carnivor" x="0" y="2" z="6" spawntime="60" />
 	</monster>
+	<monster centerx="676" centery="753" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="705" centery="754" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="713" centery="754" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
 	<monster centerx="1190" centery="754" centerz="6" radius="5">
 		<monster name="Spiky Carnivor" x="2" y="1" z="6" spawntime="60" />
 	</monster>
+	<monster centerx="710" centery="755" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="687" centery="756" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="727" centery="756" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="681" centery="757" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="758" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="732" centery="758" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
+	</monster>
 	<monster centerx="1157" centery="760" centerz="6" radius="3">
 		<monster name="Spiky Carnivor" x="1" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="728" centery="762" centerz="6" radius="1">
+		<monster name="Verminor" x="0" y="0" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="1168" centery="762" centerz="6" radius="3">
 		<monster name="Lumbering Carnivor" x="-1" y="-1" z="6" spawntime="60" />

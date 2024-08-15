@@ -407,6 +407,7 @@ public:
 		}
 		return items[id].attack;
 	}
+	
 	int32_t getArmor() const {
 		if (hasAttribute(ItemAttribute_t::ARMOR)) {
 			return getAttribute<int32_t>(ItemAttribute_t::ARMOR);
@@ -782,6 +783,24 @@ public:
 			setAttribute(ItemAttribute_t::TIER, tier);
 		}
 	}
+
+	uint8_t getItemLevel() const {
+		if (!hasAttribute(ItemAttribute_t::ITEMLEVEL)) {
+			return 0;
+		}
+
+		auto itemlevel = getAttribute<uint8_t>(ItemAttribute_t::ITEMLEVEL);
+
+		return itemlevel;
+	}
+	
+	void setItemLevel(uint8_t itemlevel) {
+
+		if (items[id].upgradeClassification) {
+			setAttribute(ItemAttribute_t::ITEMLEVEL, itemlevel);
+		}
+	}
+	
 	uint8_t getClassification() const {
 		return items[id].upgradeClassification;
 	}

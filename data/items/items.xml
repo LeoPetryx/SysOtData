@@ -3154,40 +3154,40 @@
 		<attribute key="primarytype" value="tools"/>
 		<attribute key="weight" value="800"/>
 	</item>
-	<item id="940" name="natural soil">
+	<item id="940" name="refiner +1">
 		<attribute key="primarytype" value="creature products"/>
 		<attribute key="showCount" value="0"/>
-		<attribute key="weight" value="250"/>
+		<attribute key="weight" value="01"/>
 	</item>
-	<item id="941" name="glimmering soil">
+	<item id="941" name="refiner +2">
 		<attribute key="primarytype" value="creature products"/>
 		<attribute key="showCount" value="0"/>
-		<attribute key="weight" value="250"/>
+		<attribute key="weight" value="01"/>
 	</item>
 	<item id="942" article="a" name="flawless ice crystal">
 		<attribute key="primarytype" value="creature products"/>
 		<attribute key="weight" value="250"/>
 	</item>
-	<item id="943" name="holy soil">
-		<attribute key="primarytype" value="magical items"/>
-		<attribute key="showCount" value="0"/>
-		<attribute key="weight" value="250"/>
-	</item>
-	<item id="944" name="iced soil">
+	<item id="943" name="refiner +3">
 		<attribute key="primarytype" value="creature products"/>
 		<attribute key="showCount" value="0"/>
-		<attribute key="weight" value="250"/>
+		<attribute key="weight" value="01"/>
 	</item>
-	<item id="945" name="energy soil">
+	<item id="944" name="refiner +4">
 		<attribute key="primarytype" value="creature products"/>
 		<attribute key="showCount" value="0"/>
-		<attribute key="weight" value="250"/>
+		<attribute key="weight" value="01"/>
+	</item>
+	<item id="945" name="refiner +5">
+		<attribute key="primarytype" value="creature products"/>
+		<attribute key="showCount" value="0"/>
+		<attribute key="weight" value="01"/>
 	</item>
 	<item id="946" name="eternal flames">
 		<attribute key="primarytype" value="creature products"/>
 		<attribute key="weight" value="250"/>
 	</item>
-	<item id="947" name="mother soil">
+	<item id="947" name="supreme refiner">
 		<attribute key="primarytype" value="creature products"/>
 		<attribute key="showCount" value="0"/>
 		<attribute key="weight" value="250"/>
@@ -8560,7 +8560,7 @@
 		<attribute key="primarytype" value="sword weapons"/>
 		<attribute key="description" value="It's the Sword of Valor"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="48"/>
+		<attribute key="attack" value="45"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="4200"/>
@@ -19388,7 +19388,7 @@
 	<item id="7383" article="a" name="relic sword">
 		<attribute key="primarytype" value="sword weapons"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="42"/>
+		<attribute key="attack" value="40"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="4800"/>
@@ -31867,7 +31867,7 @@
 			<attribute key="elemental protection holy" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -40619,7 +40619,7 @@
 		<attribute key="description" value="This constantly rotating ring is perfectly weightless, yet feels infinitely heavy at the same time"/>
 		<attribute key="weight" value="0"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="ring"/>
 		</attribute>
 	</item>
@@ -44493,7 +44493,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44506,7 +44506,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44519,7 +44519,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44532,7 +44532,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44545,7 +44545,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44558,7 +44558,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44571,7 +44571,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44584,7 +44584,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44597,7 +44597,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44610,7 +44610,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44623,7 +44623,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44636,7 +44636,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -44649,7 +44649,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -44662,7 +44662,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -44675,7 +44675,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -44688,7 +44688,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -44701,7 +44701,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid"/>
 		</attribute>
@@ -44714,7 +44714,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid"/>
 		</attribute>
@@ -44727,7 +44727,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid"/>
 		</attribute>
@@ -44740,7 +44740,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid"/>
 		</attribute>
@@ -45236,7 +45236,7 @@ Awarded by TibiaMisterios.com.br"/>
 			<attribute key="skillboost shielding" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="shield"/>
 		</attribute>
 	</item>
@@ -51595,7 +51595,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost sword" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -51616,7 +51616,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost sword" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -51635,7 +51635,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost axe" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="axe"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -51656,7 +51656,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost axe" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="axe"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -51675,7 +51675,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost club" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="club"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -51696,7 +51696,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost club" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="club"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -51718,7 +51718,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost distance" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="distance"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
@@ -51740,7 +51740,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost distance" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="distance"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
@@ -51759,7 +51759,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost magic level" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="mana" value="20"/>
 			<attribute key="fromDamage" value="80"/>
 			<attribute key="toDamage" value="110"/>
@@ -51782,7 +51782,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost magic level" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="mana" value="20"/>
 			<attribute key="fromDamage" value="80"/>
 			<attribute key="toDamage" value="110"/>
@@ -52389,7 +52389,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost magic level" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="head"/>
 			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid"/>
 		</attribute>
@@ -52410,7 +52410,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="elemental protection holy" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -52423,7 +52423,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="armor" value="9"/>
 		<attribute key="weight" value="2500"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="legs"/>
 			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid"/>
 		</attribute>
@@ -52447,7 +52447,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost shielding" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="shield"/>
 			<attribute key="vocation" value="Knight;true, Paladin;true, Royal Paladin, Elite Knight"/>
 		</attribute>
@@ -55421,7 +55421,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost sword" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -55444,7 +55444,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost sword" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -61681,7 +61681,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="transformequipto" value="32635"/>
 		<attribute key="weight" value="80"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="ring"/>
 		</attribute>
 	</item>
@@ -61762,7 +61762,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="decayTo" value="32636"/>
 		<attribute key="weight" value="80"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="ring"/>
 		</attribute>
 	</item>
@@ -61770,7 +61770,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="description" value="This ring is out of magic energy"/>
 		<attribute key="weight" value="80"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="ring"/>
 		</attribute>
 	</item>
@@ -63856,7 +63856,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost sword" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -63881,7 +63881,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost sword" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -63907,7 +63907,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost axe" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="axe"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -63932,7 +63932,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost axe" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="axe"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -63958,7 +63958,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost club" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="club"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -63983,7 +63983,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost club" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="club"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -64010,7 +64010,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost distance" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="distance"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
@@ -64037,7 +64037,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost distance" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="distance"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
@@ -64059,7 +64059,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost magic level" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="mana" value="21"/>
 			<attribute key="fromDamage" value="100"/>
 			<attribute key="toDamage" value="120"/>
@@ -64087,7 +64087,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="skillboost magic level" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="mana" value="21"/>
 			<attribute key="fromDamage" value="98"/>
 			<attribute key="toDamage" value="118"/>
@@ -64104,7 +64104,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="3800"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="legs"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
@@ -64116,7 +64116,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="3800"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="legs"/>
 			<attribute key="vocation" value="Druid;true, Elder Druid"/>
 		</attribute>
@@ -64137,7 +64137,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 			<attribute key="elemental protection holy" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -64159,7 +64159,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="armor"/>
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
 	</item>
@@ -64179,7 +64179,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="armor"/>
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="vocation" value="Druid;true, Elder Druid"/>
 		</attribute>
 	</item>
@@ -64197,7 +64197,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="feet"/>
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
 	</item>
@@ -64212,7 +64212,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="feet"/>
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
 	</item>
@@ -64234,7 +64234,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="shield"/>
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
 	</item>
@@ -71223,7 +71223,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="elemental protection holy" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="armor"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -71248,7 +71248,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="skillboost magic level" value="2"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="head"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -71275,7 +71275,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="skillboost magic level" value="2"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="head"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -71290,7 +71290,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="perfectshotdamage" value="20"/>
 		<attribute key="perfectshotrange" value="3"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="right-hand"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -71309,7 +71309,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="skillboost magic level" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="head"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
@@ -71333,7 +71333,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="skillboost shielding" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="shield"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
@@ -71352,7 +71352,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="skillboost magic level" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="head"/>
 			<attribute key="vocation" value="Druid;true, Elder Druid"/>
 		</attribute>
@@ -71376,7 +71376,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="skillboost shielding" value="3"/>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="shield"/>
 			<attribute key="vocation" value="Druid;true, Elder Druid"/>
 		</attribute>
@@ -71649,7 +71649,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="showattributes" value="1"/>
 		<attribute key="weight" value="95"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -71672,7 +71672,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="decayTo" value="39179"/>
 		<attribute key="weight" value="95"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -71687,7 +71687,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="showattributes" value="1"/>
 		<attribute key="weight" value="95"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -71700,7 +71700,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="showattributes" value="1"/>
 		<attribute key="weight" value="85"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -71723,7 +71723,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="decayTo" value="39182"/>
 		<attribute key="weight" value="85"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -71738,7 +71738,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="showattributes" value="1"/>
 		<attribute key="weight" value="85"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -71751,7 +71751,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="showattributes" value="1"/>
 		<attribute key="weight" value="90"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
@@ -71774,7 +71774,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="decayTo" value="39185"/>
 		<attribute key="weight" value="90"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
@@ -71790,7 +71790,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="showattributes" value="1"/>
 		<attribute key="weight" value="90"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
@@ -71803,7 +71803,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="showduration" value="1"/>
 		<attribute key="showattributes" value="1"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Druid;true, Elder Druid"/>
 		</attribute>
@@ -71824,7 +71824,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="duration" value="10800"/>
 		<attribute key="decayTo" value="39188"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Druid;true, Elder Druid"/>
 		</attribute>
@@ -71839,7 +71839,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="showattributes" value="1"/>
 		<attribute key="weight" value="70"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="400"/>
+			<attribute key="level" value="180"/>
 			<attribute key="slot" value="ring"/>
 			<attribute key="vocation" value="Druid;true, Elder Druid"/>
 		</attribute>
@@ -72013,7 +72013,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="stopduration" value="1"/>
 		<attribute key="showduration" value="1"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="necklace"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -72032,7 +72032,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="decayTo" value="39235"/>
 		<attribute key="weight" value="480"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="necklace"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -72041,7 +72041,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="primarytype" value="amulets and necklaces"/>
 		<attribute key="weight" value="480"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="200"/>
+			<attribute key="level" value="120"/>
 			<attribute key="slot" value="necklace"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -75027,7 +75027,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75056,7 +75056,7 @@ Granted by TibiaGoals.com"/>
 			</attribute>
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75082,7 +75082,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="club"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75108,7 +75108,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="club"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75134,7 +75134,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="axe"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75160,7 +75160,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="axe"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75188,7 +75188,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75215,7 +75215,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75242,7 +75242,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="club"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75269,7 +75269,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="club"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75296,7 +75296,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="axe"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75323,7 +75323,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="fierce berserk" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="axe"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
@@ -75347,7 +75347,7 @@ Granted by TibiaGoals.com"/>
 			</attribute>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="500"/>
+			<attribute key="level" value="200"/>
 			<attribute key="slot" value="legs"/>
 			<attribute key="vocation" value="Knight;true, Elite Knight"/>
 		</attribute>
@@ -75376,7 +75376,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="divine caldera" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="distance"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
@@ -75406,7 +75406,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="divine caldera" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="distance"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
@@ -75436,7 +75436,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="divine caldera" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="distance"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
@@ -75466,7 +75466,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="divine caldera" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="weaponType" value="distance"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
@@ -75489,7 +75489,7 @@ Granted by TibiaGoals.com"/>
 			</attribute>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="500"/>
+			<attribute key="level" value="200"/>
 			<attribute key="slot" value="legs"/>
 			<attribute key="vocation" value="Paladin;true, Royal Paladin"/>
 		</attribute>
@@ -75516,7 +75516,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="energy wave" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="mana" value="21"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="fromDamage" value="113"/>
@@ -75549,7 +75549,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="energy wave" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="mana" value="21"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="fromDamage" value="103"/>
@@ -75584,7 +75584,7 @@ Granted by TibiaGoals.com"/>
 			</attribute>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="500"/>
+			<attribute key="level" value="200"/>
 			<attribute key="slot" value="feet"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
@@ -75611,7 +75611,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="terra wave" value="strong impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="mana" value="20"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="fromDamage" value="100"/>
@@ -75644,7 +75644,7 @@ Granted by TibiaGoals.com"/>
 			<attribute key="terra wave" value="powerful impact" />
 		</attribute>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="level" value="600"/>
+			<attribute key="level" value="200"/>
 			<attribute key="mana" value="20"/>
 			<attribute key="unproperly" value="true"/>
 			<attribute key="fromDamage" value="100"/>
@@ -75679,7 +75679,7 @@ Granted by TibiaGoals.com"/>
 			</attribute>
 		</attribute>
 		<attribute key="script" value="moveevent">
-			<attribute key="level" value="500"/>
+			<attribute key="level" value="200"/>
 			<attribute key="slot" value="feet"/>
 			<attribute key="vocation" value="Druid;true, Elder Druid"/>
 		</attribute>

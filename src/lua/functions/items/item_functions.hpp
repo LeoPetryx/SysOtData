@@ -86,6 +86,8 @@ public:
 
 		registerMethod(L, "Item", "getTier", ItemFunctions::luaItemGetTier);
 		registerMethod(L, "Item", "setTier", ItemFunctions::luaItemSetTier);
+		registerMethod(L, "Item", "getItemLevel", ItemFunctions::luaItemGetItemLevel);
+		registerMethod(L, "Item", "setItemLevel", ItemFunctions::luaItemSetItemLevel);
 		registerMethod(L, "Item", "getClassification", ItemFunctions::luaItemGetClassification);
 
 		registerMethod(L, "Item", "canReceiveAutoCarpet", ItemFunctions::luaItemCanReceiveAutoCarpet);
@@ -158,6 +160,8 @@ private:
 
 	static int luaItemGetTier(lua_State* L);
 	static int luaItemSetTier(lua_State* L);
+	static int luaItemGetItemLevel(lua_State* L);
+	static int luaItemSetItemLevel(lua_State* L);
 	static int luaItemGetClassification(lua_State* L);
 
 	static int luaItemCanReceiveAutoCarpet(lua_State* L);

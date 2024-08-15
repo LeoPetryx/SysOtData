@@ -1,7 +1,6 @@
 local playerLogout = CreatureEvent("PlayerLogout")
 
 function playerLogout.onLogout(player)
-	player:setStorageValue(85600, 0)
 	local playerId = player:getId()
 
 	if _G.NextUseStaminaTime[playerId] then

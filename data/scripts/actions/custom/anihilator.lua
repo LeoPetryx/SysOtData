@@ -32,7 +32,7 @@ local exhaustionTime =  20 * 60 * 60
 
 local annihilator = Action()
 
-function hasCreatureInArea(removeCreatures)
+local function hasCreatureInArea(removeCreatures)
 	local fromPosition, toPosition = fromPos, toPos
 	for positionX = fromPosition.x, toPosition.x do
 		for positionY = fromPosition.y, toPosition.y do
@@ -58,7 +58,7 @@ function hasCreatureInArea(removeCreatures)
 end
 
 
-function hasPlayerInArea(bool)
+local function hasPlayerInArea(bool)
 	local fromPosition, toPosition = fromPos, toPos
 	for positionX = fromPosition.x, toPosition.x do
 		for positionY = fromPosition.y, toPosition.y do
@@ -83,7 +83,7 @@ function hasPlayerInArea(bool)
 	end
 end
 
-function playerRemove()
+local function playerRemove()
 	local fromPosition, toPosition = fromPos, toPos
 	for positionX = fromPosition.x, toPosition.x do
 		for positionY = fromPosition.y, toPosition.y do

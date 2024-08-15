@@ -1731,7 +1731,7 @@ bool ConditionDamage::doDamage(std::shared_ptr<Creature> creature, int32_t healt
 	damage.primary.type = Combat::ConditionToDamageType(conditionType);
 
 	if (field && creature->getPlayer() && attacker && attacker->getPlayer()) {
-		damage.primary.value = static_cast<int32_t>(std::round(damage.primary.value));
+		damage.primary.value = static_cast<int32_t>(std::round(damage.primary.value / 2.));
 	}
 
 	if (!creature->isAttackable() || Combat::canDoCombat(attacker, creature, damage.primary.type != COMBAT_HEALING) != RETURNVALUE_NOERROR) {

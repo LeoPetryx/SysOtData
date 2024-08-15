@@ -2742,16 +2742,16 @@ void Player::death(std::shared_ptr<Creature> lastHitCreature) {
 			unfairFightReduction = std::max<uint8_t>(20, std::floor((reduce * 100) + 0.5));
 		}
 
-		// Magic level loss
-		uint64_t sumMana = 0;
-		uint64_t lostMana = 0;
+		// // Magic level loss
+		// uint64_t sumMana = 0;
+		// uint64_t lostMana = 0;
 
-		// sum up all the mana
-		for (uint32_t i = 1; i <= magLevel; ++i) {
-			sumMana += vocation->getReqMana(i);
-		}
+		// // sum up all the mana
+		// for (uint32_t i = 1; i <= magLevel; ++i) {
+		// 	sumMana += vocation->getReqMana(i);
+		// }
 
-		sumMana += manaSpent;
+		// sumMana += manaSpent;
 
 		double deathLossPercent = getLostPercent() * (unfairFightReduction / 100.);
 
@@ -2765,22 +2765,22 @@ void Player::death(std::shared_ptr<Creature> lastHitCreature) {
 			}
 		}
 
-		lostMana = static_cast<uint64_t>(sumMana * deathLossPercent);
+		// lostMana = static_cast<uint64_t>(sumMana * deathLossPercent);
 
-		while (lostMana > manaSpent && magLevel > 0) {
-			lostMana -= manaSpent;
-			manaSpent = vocation->getReqMana(magLevel);
-			magLevel--;
-		}
+		// while (lostMana > manaSpent && magLevel > 0) {
+		// 	lostMana -= manaSpent;
+		// 	manaSpent = vocation->getReqMana(magLevel);
+		// 	magLevel--;
+		// }
 
-		manaSpent -= lostMana;
+		// manaSpent -= lostMana;
 
-		uint64_t nextReqMana = vocation->getReqMana(magLevel + 1);
-		if (nextReqMana > vocation->getReqMana(magLevel)) {
-			magLevelPercent = Player::getPercentLevel(manaSpent, nextReqMana);
-		} else {
-			magLevelPercent = 0;
-		}
+		// uint64_t nextReqMana = vocation->getReqMana(magLevel + 1);
+		// if (nextReqMana > vocation->getReqMana(magLevel)) {
+		// 	magLevelPercent = Player::getPercentLevel(manaSpent, nextReqMana);
+		// } else {
+		// 	magLevelPercent = 0;
+		// }
 
 		// Level loss
 		uint64_t expLoss = static_cast<uint64_t>(experience * deathLossPercent);
@@ -2792,32 +2792,32 @@ void Player::death(std::shared_ptr<Creature> lastHitCreature) {
 		lostExp << "You lost " << expLoss << " experience.";
 
 		// Skill loss
-		for (uint8_t i = SKILL_FIRST; i <= SKILL_LAST; ++i) { // for each skill
-			uint64_t sumSkillTries = 0;
-			for (uint16_t c = 11; c <= skills[i].level; ++c) { // sum up all required tries for all skill levels
-				sumSkillTries += vocation->getReqSkillTries(i, c);
-			}
+		// for (uint8_t i = SKILL_FIRST; i <= SKILL_LAST; ++i) { // for each skill
+		// 	uint64_t sumSkillTries = 0;
+		// 	for (uint16_t c = 11; c <= skills[i].level; ++c) { // sum up all required tries for all skill levels
+		// 		sumSkillTries += vocation->getReqSkillTries(i, c);
+		// 	}
 
-			sumSkillTries += skills[i].tries;
+		// 	sumSkillTries += skills[i].tries;
 
-			uint32_t lostSkillTries = static_cast<uint32_t>(sumSkillTries * deathLossPercent);
-			while (lostSkillTries > skills[i].tries) {
-				lostSkillTries -= skills[i].tries;
+		// 	uint32_t lostSkillTries = static_cast<uint32_t>(sumSkillTries * deathLossPercent);
+		// 	while (lostSkillTries > skills[i].tries) {
+		// 		lostSkillTries -= skills[i].tries;
 
-				if (skills[i].level <= 10) {
-					skills[i].level = 10;
-					skills[i].tries = 0;
-					lostSkillTries = 0;
-					break;
-				}
+		// 		if (skills[i].level <= 10) {
+		// 			skills[i].level = 10;
+		// 			skills[i].tries = 0;
+		// 			lostSkillTries = 0;
+		// 			break;
+		// 		}
 
-				skills[i].tries = vocation->getReqSkillTries(i, skills[i].level);
-				skills[i].level--;
-			}
+		// 		skills[i].tries = vocation->getReqSkillTries(i, skills[i].level);
+		// 		skills[i].level--;
+		// 	}
 
-			skills[i].tries = std::max<int32_t>(0, skills[i].tries - lostSkillTries);
-			skills[i].percent = Player::getPercentLevel(skills[i].tries, vocation->getReqSkillTries(i, skills[i].level));
-		}
+		// 	skills[i].tries = std::max<int32_t>(0, skills[i].tries - lostSkillTries);
+		// 	skills[i].percent = Player::getPercentLevel(skills[i].tries, vocation->getReqSkillTries(i, skills[i].level));
+		// }
 
 		sendTextMessage(MESSAGE_EVENT_ADVANCE, lostExp.str());
 
@@ -4151,6 +4151,20 @@ std::shared_ptr<Item> Player::getForgeItemFromId(uint16_t itemId, uint8_t tier) 
 		}
 
 		if (item->getID() == itemId && item->getTier() == tier) {
+			return item;
+		}
+	}
+
+	return nullptr;
+}
+
+std::shared_ptr<Item> Player::getItemLevelFromId(uint16_t itemId, uint8_t itemlevel) {
+	for (auto item : getAllInventoryItems(true)) {
+		if (item->hasImbuements()) {
+			continue;
+		}
+
+		if (item->getID() == itemId && item->getItemLevel() == itemlevel) {
 			return item;
 		}
 	}
@@ -7106,13 +7120,19 @@ bool Player::saySpell(
 	return true;
 }
 
+
+
+
 // Forge system
 void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint8_t tier, uint16_t secondItemId, bool success, bool reduceTierLoss, bool convergence, uint8_t bonus, uint8_t coreCount) {
 	if (getFreeBackpackSlots() == 0) {
 		sendCancelMessage(RETURNVALUE_NOTENOUGHROOM);
 		return;
 	}
-
+	auto itemLevel = 0;
+	auto forgedAttack = 0;
+	auto forgedArmor = 0;
+	auto forgedDefense = 0;
 	ForgeHistory history;
 	history.actionType = actionType;
 	history.tier = tier;
@@ -7125,6 +7145,10 @@ void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint
 		sendForgeError(RETURNVALUE_CONTACTADMINISTRATOR);
 		return;
 	}
+
+	auto firstItemLevel = firstForgingItem->getItemLevel();
+	auto itemAttr = firstForgingItem->getWeaponType();
+
 	auto returnValue = g_game().internalRemoveItem(firstForgingItem, 1);
 	if (returnValue != RETURNVALUE_NOERROR) {
 		g_logger().error("[Log 1] Failed to remove forge item {} from player with name {}", firstItemId, getName());
@@ -7138,12 +7162,25 @@ void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint
 		sendForgeError(RETURNVALUE_CONTACTADMINISTRATOR);
 		return;
 	}
+	auto secondItemLevel = secondForgingItem->getItemLevel();
 	if (returnValue = g_game().internalRemoveItem(secondForgingItem, 1);
 	    returnValue != RETURNVALUE_NOERROR) {
 		g_logger().error("[Log 2] Failed to remove forge item {} from player with name {}", secondItemId, getName());
 		sendCancelMessage(getReturnMessage(returnValue));
 		sendForgeError(RETURNVALUE_CONTACTADMINISTRATOR);
 		return;
+	}
+
+	if (firstItemLevel >= secondItemLevel) {
+		itemLevel = firstItemLevel;
+		forgedAttack = firstForgingItem->getAttack();
+		forgedArmor = firstForgingItem->getArmor();
+		forgedDefense = firstForgingItem->getDefense();
+	} else {
+		itemLevel = secondItemLevel;
+		forgedAttack = secondForgingItem->getAttack();
+		forgedArmor = secondForgingItem->getArmor();
+		forgedDefense = secondForgingItem->getDefense();
 	}
 
 	auto exaltationChest = Item::CreateItem(ITEM_EXALTATION_CHEST, 1);
@@ -7177,6 +7214,10 @@ void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint
 	auto dustCost = static_cast<uint64_t>(g_configManager().getNumber(configKey, __FUNCTION__));
 	if (convergence) {
 		firstForgedItem->setTier(tier + 1);
+		firstForgedItem->setItemLevel(itemLevel);
+				if (itemAttr == 0) { firstForgedItem->setAttribute(ItemAttribute_t::ARMOR, forgedArmor);}
+				if (itemAttr >= 1 && itemAttr <=3) { firstForgedItem->setAttribute(ItemAttribute_t::ATTACK, forgedAttack);}
+				if (itemAttr == 4) { firstForgedItem->setAttribute(ItemAttribute_t::DEFENSE, forgedDefense);}
 		history.dustCost = dustCost;
 		setForgeDusts(getForgeDusts() - dustCost);
 
@@ -7203,6 +7244,12 @@ void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint
 		history.cost = cost;
 	} else {
 		firstForgedItem->setTier(tier);
+		firstForgedItem->setItemLevel(itemLevel);
+				if (itemAttr == 0) { firstForgedItem->setAttribute(ItemAttribute_t::ARMOR, forgedArmor);}
+				if (itemAttr == 1) { firstForgedItem->setAttribute(ItemAttribute_t::ATTACK, forgedAttack);}
+				if (itemAttr == 4) { firstForgedItem->setAttribute(ItemAttribute_t::DEFENSE, forgedDefense);}
+
+
 		std::shared_ptr<Item> secondForgedItem = Item::CreateItem(secondItemId, 1);
 		if (!secondForgedItem) {
 			g_logger().error("[Log 4] Player with name {} failed to fuse item with id {}", getName(), secondItemId);
@@ -7211,6 +7258,10 @@ void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint
 		}
 
 		secondForgedItem->setTier(tier);
+		secondForgedItem->setItemLevel(secondForgingItem->getItemLevel());
+			if (itemAttr == 0) { secondForgedItem->setAttribute(ItemAttribute_t::ARMOR, secondForgingItem->getItemLevel() + secondForgingItem->getArmor());}
+			if (itemAttr == 1) { secondForgedItem->setAttribute(ItemAttribute_t::ATTACK, secondForgingItem->getItemLevel() + secondForgingItem->getAttack());}
+			if (itemAttr == 4) { secondForgedItem->setAttribute(ItemAttribute_t::DEFENSE, secondForgingItem->getItemLevel() + secondForgingItem->getDefense());}
 		returnValue = g_game().internalAddItem(exaltationContainer, secondForgedItem, INDEX_WHEREEVER);
 		if (returnValue != RETURNVALUE_NOERROR) {
 			g_logger().error("[Log 2] Failed to add forge item {} from player with name {}", secondItemId, getName());
@@ -7221,6 +7272,10 @@ void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint
 
 		if (success) {
 			firstForgedItem->setTier(tier + 1);
+			firstForgedItem->setItemLevel(itemLevel);
+			if (itemAttr == 0) { firstForgedItem->setAttribute(ItemAttribute_t::ARMOR, forgedArmor);}
+			if (itemAttr == 1) { firstForgedItem->setAttribute(ItemAttribute_t::ATTACK, forgedAttack);}
+			if (itemAttr == 4) { firstForgedItem->setAttribute(ItemAttribute_t::DEFENSE, forgedDefense);}
 
 			if (bonus != 1) {
 				history.dustCost = dustCost;
@@ -7260,11 +7315,23 @@ void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint
 			if (bonus == 4) {
 				if (tier > 0) {
 					secondForgedItem->setTier(tier - 1);
+					secondForgedItem->setItemLevel(itemLevel);
+					if (itemAttr == 0) { secondForgedItem->setAttribute(ItemAttribute_t::ARMOR, secondForgingItem->getItemLevel() + secondForgingItem->getArmor());}
+					if (itemAttr == 1) { secondForgedItem->setAttribute(ItemAttribute_t::ATTACK, secondForgingItem->getItemLevel() + secondForgingItem->getAttack());}
+					if (itemAttr == 4) { secondForgedItem->setAttribute(ItemAttribute_t::DEFENSE, secondForgingItem->getItemLevel() + secondForgingItem->getDefense());}
 				}
 			} else if (bonus == 6) {
 				secondForgedItem->setTier(tier + 1);
+				secondForgedItem->setItemLevel(itemLevel);
+				if (itemAttr == 0) { secondForgedItem->setAttribute(ItemAttribute_t::ARMOR, secondForgingItem->getItemLevel() + secondForgingItem->getArmor());}
+				if (itemAttr == 1) { secondForgedItem->setAttribute(ItemAttribute_t::ATTACK, secondForgingItem->getItemLevel() + secondForgingItem->getAttack());}
+				if (itemAttr == 4) { secondForgedItem->setAttribute(ItemAttribute_t::DEFENSE, secondForgingItem->getItemLevel() + secondForgingItem->getDefense());}
 			} else if (bonus == 7 && tier + 2 <= firstForgedItem->getClassification()) {
 				firstForgedItem->setTier(tier + 2);
+				firstForgedItem->setItemLevel(itemLevel);
+					if (itemAttr == 0) { firstForgedItem->setAttribute(ItemAttribute_t::ARMOR, forgedArmor);}
+					if (itemAttr == 1) { firstForgedItem->setAttribute(ItemAttribute_t::ATTACK, forgedAttack);}
+					if (itemAttr == 4) { firstForgedItem->setAttribute(ItemAttribute_t::DEFENSE, forgedDefense);}
 			}
 
 			if (bonus != 4 && bonus != 5 && bonus != 6 && bonus != 8) {
@@ -7281,6 +7348,10 @@ void Player::forgeFuseItems(ForgeAction_t actionType, uint16_t firstItemId, uint
 			if (isTierLost) {
 				if (secondForgedItem->getTier() >= 1) {
 					secondForgedItem->setTier(tier - 1);
+					secondForgedItem->setItemLevel(itemLevel);
+					if (itemAttr == 0) { secondForgedItem->setAttribute(ItemAttribute_t::ARMOR, secondForgingItem->getItemLevel() + secondForgingItem->getArmor());}
+					if (itemAttr == 1) { secondForgedItem->setAttribute(ItemAttribute_t::ATTACK, secondForgingItem->getItemLevel() + secondForgingItem->getAttack());}
+					if (itemAttr == 4) { secondForgedItem->setAttribute(ItemAttribute_t::DEFENSE, secondForgingItem->getItemLevel() + secondForgingItem->getDefense());}
 				} else {
 					returnValue = g_game().internalRemoveItem(secondForgedItem, 1);
 					if (returnValue != RETURNVALUE_NOERROR) {

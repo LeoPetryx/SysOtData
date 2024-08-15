@@ -897,6 +897,33 @@ int ItemFunctions::luaItemSetTier(lua_State* L) {
 	return 1;
 }
 
+int ItemFunctions::luaItemGetItemLevel(lua_State* L) {
+	// item:getItemLevel()
+	std::shared_ptr<Item> item = getUserdataShared<Item>(L, 1);
+	if (!item) {
+		reportErrorFunc(getErrorDesc(LUA_ERROR_ITEM_NOT_FOUND));
+		pushBoolean(L, false);
+		return 1;
+	}
+
+	lua_pushnumber(L, item->getItemLevel());
+	return 1;
+}
+
+int ItemFunctions::luaItemSetItemLevel(lua_State* L) {
+	// item:setItemLevel(level)
+	std::shared_ptr<Item> item = getUserdataShared<Item>(L, 1);
+	if (!item) {
+		reportErrorFunc(getErrorDesc(LUA_ERROR_ITEM_NOT_FOUND));
+		pushBoolean(L, false);
+		return 1;
+	}
+
+	item->setItemLevel(getNumber<uint8_t>(L, 2));
+	pushBoolean(L, true);
+	return 1;
+}
+
 int ItemFunctions::luaItemGetClassification(lua_State* L) {
 	// item:getClassification()
 	std::shared_ptr<Item> item = getUserdataShared<Item>(L, 1);
