@@ -1292,6 +1292,10 @@ void Creature::onGainExperience(uint64_t gainExp, std::shared_ptr<Creature> targ
 		return;
 	}
 
+	if (gainExp == 0 || master) {
+		return;
+	}
+
 	std::shared_ptr<Monster> m = getMonster();
 	if (!m->isFamiliar()) {
 		gainExp /= 2;

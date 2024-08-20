@@ -6624,6 +6624,7 @@
 		<attribute key="weight" value="90"/>
 	</item>
 	<item id="3006" article="a" name="ring of the sky">
+	<attribute key="primarytype" value="rings"/>
 		<attribute key="weight" value="40"/>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="ring"/>
@@ -6631,6 +6632,10 @@
 	</item>
 	<item id="3007" article="a" name="crystal ring">
 		<attribute key="primarytype" value="rings"/>
+		<attribute key="manapercentticks" value="1000"/>
+		<attribute key="manapercentgain" value="80"/>
+		<attribute key="healthpercentticks" value="1000"/>
+		<attribute key="healthpercentgain" value="80"/>
 		<attribute key="weight" value="90"/>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="ring"/>
@@ -6895,15 +6900,15 @@
 			<attribute key="slot" value="ring"/>
 		</attribute>
 	</item>
-	<item id="3051" article="[2%MANA /S]" name="mana ring">
+	<item id="3051" article="[2% HP/MANA /S]" name="mana ring">
 		<attribute key="primarytype" value="rings"/>
 		<attribute key="stopduration" value="1"/>
 		<attribute key="showduration" value="1"/>
 		<attribute key="transformequipto" value="3088"/>
 		<attribute key="weight" value="80"/>
 		<attribute key="script" value="moveevent">
-			<attribute key="slot" value="ring"/>
-			<attribute key="vocation" value="Druid;true, Paladin;true, Sorcerer;true, Elder Druid, Royal Paladin, Master Sorcerer"/>
+		<attribute key="slot" value="ring"/>
+		<attribute key="vocation" value="Druid;true, Paladin;true, Sorcerer;true, Elder Druid, Royal Paladin, Master Sorcerer"/>
 		</attribute>
 	</item>
 	<item id="3052" article="[2%HP e 30%MANA /S]" name="health ring">
@@ -7308,13 +7313,15 @@
 			<attribute key="slot" value="ring"/>
 		</attribute>
 	</item>
-	<item id="3088" article="[2%MANA /S]" name="mana ring">
+	<item id="3088" article="[2% HP/MANA /S]" name="mana ring">
 		<attribute key="primarytype" value="rings"/>
 		<attribute key="showduration" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="duration" value="18000"/>
 		<attribute key="manapercentticks" value="1000"/>
 		<attribute key="manapercentgain" value="2"/>
+		<attribute key="healthpercentticks" value="1000"/>
+		<attribute key="healthpercentgain" value="2"/>
 		<attribute key="transformdeequipto" value="3051"/>
 		<attribute key="decayTo" value="0"/>
 		<attribute key="weight" value="80"/>
@@ -16844,6 +16851,10 @@
 	<item id="6093" article="a" name="crystal ring">
 		<attribute key="primarytype" value="rings"/>
 		<attribute key="description" value="The initials E.S. are engraved on it"/>
+		<attribute key="manapercentticks" value="1000"/>
+		<attribute key="manapercentgain" value="80"/>
+		<attribute key="healthpercentticks" value="1000"/>
+		<attribute key="healthpercentgain" value="80"/>
 		<attribute key="weight" value="90"/>
 	</item>
 	<item id="6094" article="a" name="thread tree">

@@ -3,4 +3,7 @@
 	<npc centerx="828" centery="678" centerz="6" radius="1">
 		<npc name="The Librarian" x="0" y="-1" z="6" spawntime="60" />
 	</npc>
+	<npc centerx="945" centery="661" centerz="7" radius="1">
+		<npc name="Klaust" x="0" y="0" z="7" spawntime="60" />
+	</npc>
 </npcs>
