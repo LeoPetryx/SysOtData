@@ -11,10 +11,6 @@ local monsterPosition = {
 	Position(909, 655, 8),
 	Position(909, 657, 8),
 	Position(908, 656, 8),
-	Position(904, 653, 8),
-	Position(906, 653, 8),
-	Position(905, 659, 8),
-	Position(907, 659, 8),
 }
 local newPosition = {
 	Position(907, 656, 8),
@@ -23,7 +19,7 @@ local newPosition = {
 	Position(904, 656, 8),
 }
 local fromPos, toPos  = Position(902, 653, 8), Position(909, 659, 8)
-local monster = "Cave Rat"
+local monster = "Anihilator"
 local playersTable = {}
 	
 

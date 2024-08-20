@@ -156,6 +156,9 @@ function serverInitialization.onStartup()
 	updateEventRates()
 	HirelingsInit()
 	resetAccountSessions()
+	saveServer()
+	SaveHirelings()
+	Game.reload(RELOAD_TYPE_ITEMS)
 end
 
 serverInitialization:register()

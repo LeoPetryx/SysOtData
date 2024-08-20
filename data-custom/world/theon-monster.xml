@@ -1303,6 +1303,132 @@
 		<monster name="Spiky Carnivor" x="2" y="-2" z="7" spawntime="60" />
 		<monster name="Menacing Carnivor" x="-1" y="2" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="872" centery="833" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="879" centery="834" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="866" centery="838" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="873" centery="838" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="865" centery="843" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="860" centery="844" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="897" centery="846" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="863" centery="847" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="822" centery="849" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="896" centery="849" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="820" centery="851" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="899" centery="851" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="824" centery="852" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="862" centery="852" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="859" centery="855" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="824" centery="856" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="879" centery="857" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="884" centery="857" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="893" centery="858" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="815" centery="859" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="825" centery="859" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="854" centery="859" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="859" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="827" centery="861" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="831" centery="863" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="874" centery="863" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="851" centery="864" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="871" centery="865" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="815" centery="867" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="850" centery="867" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="838" centery="868" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="842" centery="869" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="868" centery="870" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="819" centery="871" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="864" centery="873" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="857" centery="875" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="829" centery="876" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="832" centery="877" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="855" centery="877" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="850" centery="879" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="839" centery="880" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="845" centery="881" centerz="7" radius="1">
+		<monster name="Higher Dwarf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1129" centery="738" centerz="8" radius="3">
 		<monster name="Menacing Carnivor" x="3" y="0" z="8" spawntime="60" />
 	</monster>
@@ -1363,6 +1489,15 @@
 		<monster name="Menacing Carnivor" x="2" y="-3" z="8" spawntime="60" />
 		<monster name="Spiky Carnivor" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="876" centery="765" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="878" centery="766" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="882" centery="766" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="1129" centery="766" centerz="8" radius="3">
 		<monster name="Menacing Carnivor" x="0" y="-3" z="8" spawntime="60" />
 		<monster name="Spiky Carnivor" x="3" y="-1" z="8" spawntime="60" />
@@ -1382,6 +1517,33 @@
 	</monster>
 	<monster centerx="1178" centery="766" centerz="8" radius="3">
 		<monster name="Menacing Carnivor" x="-3" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="890" centery="767" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="894" centery="767" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="840" centery="768" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="872" centery="768" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="898" centery="769" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="901" centery="769" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="840" centery="771" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="870" centery="771" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="903" centery="773" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1122" centery="773" centerz="8" radius="3">
 		<monster name="Spiky Carnivor" x="2" y="-2" z="8" spawntime="60" />
@@ -1408,6 +1570,18 @@
 		<monster name="Spiky Carnivor" x="3" y="-3" z="8" spawntime="60" />
 		<monster name="Spiky Carnivor" x="0" y="-2" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="842" centery="776" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="868" centery="777" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="903" centery="779" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="901" centery="780" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="1136" centery="780" centerz="8" radius="3">
 		<monster name="Spiky Carnivor" x="-2" y="1" z="8" spawntime="60" />
 	</monster>
@@ -1421,6 +1595,189 @@
 	<monster centerx="1171" centery="780" centerz="8" radius="3">
 		<monster name="Menacing Carnivor" x="2" y="-3" z="8" spawntime="60" />
 		<monster name="Menacing Carnivor" x="-1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="846" centery="781" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="897" centery="783" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="901" centery="783" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="869" centery="784" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="896" centery="786" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="844" centery="789" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="869" centery="790" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="890" centery="790" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="844" centery="793" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="888" centery="793" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="870" centery="795" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="889" centery="796" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="842" centery="799" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="869" centery="799" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="801" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="839" centery="802" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="871" centery="803" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="894" centery="804" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="897" centery="805" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="837" centery="808" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="858" centery="808" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="872" centery="808" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="839" centery="810" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="851" centery="810" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="894" centery="810" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="863" centery="811" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="849" centery="812" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="842" centery="813" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="865" centery="813" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="869" centery="814" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="893" centery="815" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="916" centery="815" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="920" centery="815" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="896" centery="818" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="925" centery="819" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="901" centery="820" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="910" centery="820" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="904" centery="822" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="908" centery="822" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="899" centery="823" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="929" centery="823" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="931" centery="827" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="935" centery="833" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="936" centery="837" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="935" centery="842" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="880" centery="843" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="882" centery="843" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="901" centery="843" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="905" centery="843" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="895" centery="844" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="932" centery="845" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="881" centery="846" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="912" centery="846" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="879" centery="847" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="895" centery="847" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="885" centery="848" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="925" centery="848" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="915" centery="849" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="893" centery="850" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="921" centery="850" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="887" centery="851" centerz="8" radius="1">
+		<monster name="Atlantes" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1164" centery="750" centerz="9" radius="5">
 		<monster name="Spiky Carnivor" x="3" y="-2" z="9" spawntime="60" />

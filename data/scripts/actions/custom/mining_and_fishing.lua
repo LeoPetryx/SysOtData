@@ -4,21 +4,28 @@ function isFishMining(player)
 	if player:getStorageValue(85651) >= 1 then return true else return false 
 end end
 
+
+local pets = {[1] = 6541, [2] = 6542, [3] = 6543, [4] = 6544, [5] = 6545}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 local startFishing = Action()
 
 function startFishing.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+	if player:getStorageValue(85652) <= 0 then
+		return player:sendCancelMessage("You need to do the quest first.")
+	end
 	if isFishMining(player) then
 		return player:sendCancelMessage("You cant do this so fast")
 	end
 
+	
 	local initPosition = player:getPosition()
 	local function onFishing()
 		if isFishMining(player) then
 			
 				local fishLevel = player:getEffectiveSkillLevel(SKILL_FISHING)
 				local amount = math.random(5*fishLevel, 12*fishLevel)
+				local addpet = math.random(1,5)
 
 						if item:getId() == 9306 then
 							amount = amount * 2
@@ -26,13 +33,14 @@ function startFishing.onUse(player, item, fromPosition, target, toPosition, isHo
 							player:sendTextMessage(24, "".. amount .." was sent to your bank account.", player:getPosition(), amount, TEXTCOLOR_MAYABLUE)
 							player:addSkillTries(SKILL_FISHING, 30, true)
 							Bank.credit(player:getName(), amount)
+							if math.random(1,200) <= math.max(1, fishLevel/20) then player:addItem(pets[addpet], math.random(2,5)) end
 							if player:getItemCount(9306) >= 1 then addEvent(onFishing, 1000) else player:setStorageValue(85651, 0) end
-		
 						elseif item:getId() == 3483 then
 							toPosition:sendMagicEffect(CONST_ME_WATERSPLASH)
 							player:sendTextMessage(24, "".. amount .." was sent to your bank account.", player:getPosition(), amount, TEXTCOLOR_MAYABLUE)
 							player:addSkillTries(SKILL_FISHING, 30, true)
 							Bank.credit(player:getName(), amount)
+							if math.random(1,200) <= math.max(1, fishLevel/20) then player:addItem(pets[addpet], math.random(1,3)) end
 							if player:getItemCount(3483) >= 1 then addEvent(onFishing, 1000) else player:setStorageValue(85651, 0) end
 						else
 							player:setStorageValue(85651, 0)
@@ -61,6 +69,9 @@ startFishing:register()
 local startMining = Action()
 
 function startMining.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+	if player:getStorageValue(85652) <= 0 then
+		return player:sendCancelMessage("You need to do the quest first.")
+	end
 	if isFishMining(player) then
 		return player:sendCancelMessage("You cant do this so fast")
 	end
@@ -77,7 +88,7 @@ function startMining.onUse(player, item, fromPosition, target, toPosition, isHot
 				local amount
 				
 					if item:getId() == 3456 then
-						if chance >= 300 then	refiner = ItemType(refinerId):getName(); amount = 1; player:addItem(refinerId, 1) else refiner = refinerId; amount = 0; end
+						if chance >= 250 then	refiner = ItemType(refinerId):getName(); amount = 1; player:addItem(refinerId, 1) else refiner = refinerId; amount = 0; end
 						toPosition:sendMagicEffect(49)
 						player:sendTextMessage(24, " You receive ".. refiner .. ".", player:getPosition(), amount, colors[refinerId])
 						
